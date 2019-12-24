@@ -1,0 +1,151 @@
+Hello BOON here, these are all of Wally's sprites for you to start editing, you'll want a pixel based
+editing program such as aseprite or pyxeledit and import these sprites as a spritesheet. 
+
+The resolutions for the sprites, please make sure your new sprites resolution match the resolution of the original.
+
+IMPORTANT!
+
+When adding a cape to your character please make sure that you have a file that is the cape ONLY with 
+the same name, this will allow your character to have different cape colors with each combo with the 
+RAINBOW cape powerup.
+
+If you want to change the color of the cape from red to another color, please make sure to also change
+the red color under palette files under \mods\Wally\palette\s_player_cape_palette.png to the color that you want.
+
+
+
+
+Thank you 
+-BOON
+
+
+////////////////////////////////////////////////////
+
+
+SPRITE RESOLUTION
+
+
+Naruto Sprint Run Cycle
+
+player_sprint_right
+Width 	 = 35
+Height	 = 25
+
+player_sprint_down
+Width 	= 27
+Height 	= 27
+
+player_sprint_up
+Width 	= 27
+Height 	= 27
+
+///////////////////////////////////////
+
+Default walk cycle
+
+player_run_right
+Width	= 24
+Height	= 25
+
+player_run_up
+Width	= 25
+Height	= 25
+
+player_run_up
+Width	= 25
+Height	= 25
+
+player_run_down
+Width	= 25
+Height	= 25
+
+////////////////////////
+
+Roll is also used as the fly animation.
+
+player_roll_right
+Width	 = 32
+Height	 = 32
+
+player_roll_up
+Width	 = 32
+Height	 = 32
+
+player_roll_down
+Width	 = 32
+Height	 = 32
+/////////////////////////////
+
+Standing around idle.
+
+player_idle_right
+Width	 = 26
+Height	 = 25
+
+player_idle_up
+Width	 = 24
+Height	 = 25
+
+player_idle_down
+Width	 = 24
+Height	 = 25
+
+////////////////////////////////////////////
+
+(Out of breath after running)
+player_tired_right
+Width	 = 26
+Height	 = 25
+
+player_tired_up
+Width	 = 24
+Height	 = 25
+
+player_tired_down
+Width	 = 24
+Height	 = 25
+
+////////////////////////////////////////////
+
+SWORD SWING
+
+player_attack_right (Sword Swing)
+Width	 = 48
+Height	 = 48
+
+player_attack_up (Sword Swing)
+Width 	= 48
+Height 	= 48
+
+player_attack_down (Sword Swing)
+Width 	= 48
+Height 	= 48
+
+/////////////////////////////////////////////
+
+MISC
+
+player_falling
+Width 	= 25
+Height 	= 24
+
+player_death
+Width	= 
+
+
+player_hit
+Width 	 = 21
+Height	 = 24
+
+player_hug
+Width 	 = 26
+Height	 = 27
+
+
+player_round_item
+Width	 = 32
+Height	 = 32
+
+player_death 
+Width	 = 34
+Height	 = 33
